@@ -25,8 +25,7 @@ https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d54
 ## Host Server
 Navigate to http://127.0.0.1:5500/
 
-
-
+https://mayankdubey23.github.io/Fyle-web-development-/
 
 ## Test Cases
 
