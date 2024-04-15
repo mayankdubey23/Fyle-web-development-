@@ -19,6 +19,15 @@ You will hear back within 48 hours from us via email.
 
 Design a website that allows for tax calculation based on a users input.
 
+## For Further Info
+https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c
+
+## Host Server
+Navigate to http://127.0.0.1:5500/
+
+
+
+
 ## Test Cases
 
 #### 1. Tax Calculator
